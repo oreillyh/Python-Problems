@@ -1,4 +1,5 @@
 #Collatz Conjecture Python
+#Hugh O'Reilly
 n = 17
 while n > 1:
     if  n % 2 == 0:
