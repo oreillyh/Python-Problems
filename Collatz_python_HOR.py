@@ -1,10 +1,9 @@
-i = 1
-
-    if i % 2 == 0:
-        print(i)
-    elif i % 2 != 0:
-        print(i)
-        i = (i/2)
-    else:
-        print(i)
-    i=(3*i+1)
+#Collatz Conjecture Python
+i = 17
+i = (i - 1)
+while  i % 2 == 0:
+    print(i-1)
+    i = (i//2)
+else:
+    print(i)
+    i=(3*i + 1)
