@@ -1,11 +1,11 @@
-i = 1
-        
-    while i >= 1:
-    if i % 2 == 0:
-        print(i)
-    elif i % 2 != 0:
-        print(i)
-        i = (i/2)
+#Collatz Conjecture Python
+n = 17
+while n > 1:
+    if  n % 2 == 0:
+        n = (n//2)
+        print (n)
+
     else:
-        print(i)
-    i=(3*i+1)
+        n = (3*n + 1)
+        print(n)
+
