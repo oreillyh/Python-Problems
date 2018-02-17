@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 #Collatz Conjecture Python with user entering positive integer
 #Hugh O'Reilly 14/02/18
-n = int(input('Enter a number: greater than 1:\n'))
+n = int(input('Enter a number: greater than 1:\n')) #Int command makes sure integer is whole, \n ensures data entry is on next line
 
-=======
-#Collatz Conjecture Python
-#Hugh O'Reilly 12/02/18
-n = 17
->>>>>>> 33d03891db3c43f4591f109372469fe925342050
 while n > 1:
     if  n % 2 == 0:
         n = (n//2)
