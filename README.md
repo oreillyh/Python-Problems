@@ -5,3 +5,4 @@
 # Collatz_HOR_V2 returns the Fibonacci sequence of a user entered integer
 # Euler_prob_5 Project Euler Problem 5
 # IrisData.py Exercise 5: Iris Data set imported from csv, converted to list and columns aligned with commas removed
+# Factorial Problem Week 6
