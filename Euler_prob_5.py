@@ -1,5 +1,6 @@
 #Hugh O'Reilly,  25/02/18
 #Project Euler Problem 5
+#This is as far as I got on this problem myself!
 
 n = 2520
 i = 2
