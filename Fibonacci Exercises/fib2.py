@@ -1,3 +1,8 @@
+# Hugh O'Reilly
+# 06/04/18
+# This code writes a function 'def (n)' which returns the Fibonacci sequence for a number 'n' 
+# The remaining code calculates the Fibonacci number for the sum of the first and last letters of my name
+
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
