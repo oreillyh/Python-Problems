@@ -1,5 +1,6 @@
 # Hugh O'Reilly
-# Fibonacci series:
+# 06/04/2018
+# Fibonacci series: up to 100
 # the sum of two elements defines the next
 a, b = 0, 1
 while b < 100:
