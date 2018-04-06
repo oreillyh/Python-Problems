@@ -18,7 +18,8 @@ def fib(n):
 name = "O'Reilly"
 first = name[0]
 last = name[-1]
-firstno = ord(first)
+firstno = ord(first) #ord() Returns an integer which is assigned to a unicode string character. 
+# Its inverse the chr() function returns a string character to an integer.
 lastno = ord(last)
 x = firstno + lastno
 
