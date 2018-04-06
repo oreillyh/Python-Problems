@@ -1,5 +1,5 @@
 # Hugh O'Reillys Python-problems
-## GMIT Data Analytics Programming problems
+## GMIT Grad Dip Data Analytics Python Programming Problems
 
 ### Fibonacci Exercises Folder
 1.  Fib.py is Ians fibonacci sequence example
