@@ -19,3 +19,5 @@
 ## Other Files
 1.  IrisData.py Exercise 5: Iris Data set imported from csv, converted to list and columns aligned with commas removed
 1.  Factorial.py Exercise 6: Creates a function to return the Factorial of an integer
+## Python The Hard Way Folder
+Problems from 'Python The Hard Way Book'
