@@ -3,4 +3,5 @@ def mystery (n):
     if n <4:
         mystery(n+1)
     print(n)
+mystery(1)
     
