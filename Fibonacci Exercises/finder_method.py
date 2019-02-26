@@ -8,4 +8,5 @@ def finder_rec(data,x):
     if v1>v2:
         return v1
     else:
-        exitreturn v2
+        return v2
+print (finder([0, -247, 341, 1001, 741, 22]))
