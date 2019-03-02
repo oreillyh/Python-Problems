@@ -8,7 +8,9 @@ def contains_duplicates(elements):
                 return True # duplicate found
     return False
 
-elements = np.random.random_integers(10, size=(100)) #generates 100 random integers between 1 and 10
+elements = [1,1,2,3,4,5,6,7,8,9,10]
+
+#np.random.random_integers(10, size=(10)) #generates 100 random integers between 1 and 10
 
 print(contains_duplicates(elements))
 
