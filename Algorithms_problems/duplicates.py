@@ -1,3 +1,4 @@
+import numpy as np
 def contains_duplicates(elements):
     for i in range (0, len(elements)):
         for j in range (0, len(elements)):
@@ -7,6 +8,7 @@ def contains_duplicates(elements):
                 return True # duplicate found
     return False
 
-elements = [1,2,45,66,76,55,2,45,37,66]
+elements = np.random.random_integers(10, size=(100)) #generates 100 random integers between 1 and 10
 
 print(contains_duplicates(elements))
+
