@@ -8,8 +8,7 @@ def contains_duplicates(elements):
             if i == j: #avoid self comparison
                 continue
             if elements[i] == elements[j]:
-                Return True
-                # duplicate found
+                return True #duplicate found
     return False
     
     #print(elements)
