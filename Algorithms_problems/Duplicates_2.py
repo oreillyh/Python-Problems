@@ -2,7 +2,6 @@ import time #import time function
 start = time.time() #start time
 import numpy as np
 def contains_duplicates(elements):
-    
     for i in range (0, len(elements)):
         for j in range (0, len(elements)):
             if i == j: #avoid self comparison
