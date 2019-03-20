@@ -10,7 +10,7 @@ def finder(data): #function to iteratively find maximun in an array
     for i in data:#loops through items in array
         if i > curr_max:#checks each item in array against current max
             curr_max = i #assigns new value of i as max
-
+            
     return curr_max #outputs max value
 data = [0,-247,341,1001,741,22]
 print(finder(data))
