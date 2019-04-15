@@ -49,5 +49,5 @@ if __name__ == '__main__':
     mergeSort(arr) 
     print("Sorted array is: ", end="\n") 
     printList(arr) 
-  end = time.time() #end time
+end = time.time() #end time
 print(end - start) #outputs time to execute method
