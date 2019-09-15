@@ -37,5 +37,5 @@ def display_menu():
 def view_15():
 	#select * from city where id<16;
 
-if __name__== "__main__":
-	main()
+	if __name__== "__main__":
+		main()
